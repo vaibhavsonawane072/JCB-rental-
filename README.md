@@ -1,2 +1,2 @@
-# JCB-rental-
-This is JCB rental site deployed with xamp.
+# bike-rental-
+This is bike rental site deployed with xamp.
